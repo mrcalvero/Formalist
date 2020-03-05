@@ -1,0 +1,43 @@
+body {
+font-size: 36px;
+	margin: 18px;
+	font-family: Helvetica;
+}
+/* https://flatuicolors.com/palette/us */
+.rhyme-A input{
+background: rgba(85, 239, 196,1.0)
+}
+.rhyme-B input{
+background: rgba(129, 236, 236,1.0)
+}
+.rhyme-C input{
+background: rgba(116, 185, 255,1.0)
+}
+.rhyme-D input{
+background: rgba(162, 155, 254,1.0)
+}
+.rhyme-E input{
+background: rgba(255, 234, 167,1.0)
+}
+.rhyme-F input{
+background: rgba(250, 177, 160,1.0)
+}
+
+label span {
+display:inline-block;
+opacity: 0.5;
+  width:5vw;
+  font-size:21px
+}
+
+input {
+margin-left: 1rem;
+width:80vw
+}
+
+.faircopy{
+font-size: 18px;
+line-height:18px;
+margin-top:2rem;
+}
+
